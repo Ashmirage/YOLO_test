@@ -8,5 +8,5 @@ model.predict(
     source=r"ultralytics/assets",
     save=True,
     show=False,
-    visualize = True,
+    visualize=True,
 )
